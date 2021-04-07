@@ -14,3 +14,4 @@ Structure:
 - [params](params) - parameter files for LROSE utilities used in the storm tracking project.
 - [utils](utils) - **modified versions** of LROSE utilities.
 
+[![DOI](https://zenodo.org/badge/355371107.svg)](https://zenodo.org/badge/latestdoi/355371107)
